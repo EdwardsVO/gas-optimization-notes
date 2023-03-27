@@ -36,7 +36,7 @@ Pure functions that not require logic as a simple `return 3 * 7` will hardcode t
 hardcode too the result.
 Sometimes this optimization cannot happen, because the solidity compiler doesn't recognize the operation, for exmaple using expresions to store a constant and then return the expresion plus 2. It is needed to find the cheapest way working with precomputation and pure functions 
 
-## Tricks 
+## Tips 
 - Make sure that gas sensitive functions and its selector is near the top of the opcodes.
 - While optimizing don't change function names, becouse the gas consuption could be modified by the functions selector order.
 - Change the logic check from `>=` to `<`

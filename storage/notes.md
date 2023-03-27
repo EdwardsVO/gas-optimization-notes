@@ -14,9 +14,6 @@ First time acccessing a variable
 Access a variable already accessed
 - 100 gas
 
-## Tips
-- Doing storage read and then storage write costs similar to only doing a storage write
-
 ### Example 
 #### Read + Write
 2100(Read + Cold Access) + 20100(Write + Warm Access) = 22200 gas

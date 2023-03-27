@@ -26,6 +26,7 @@ When two variables are kept in a single 32 bytes slot.
 
 
 ##  Tips
+- Doing storage read and then storage write costs similar to only doing a storage write
 - Using smaller integers sizes will not save storage gas.
 - Deleting an array can be expensive (setting to zero variables)
 - Setting to zero can cost between 200 and 5000 gas.
