@@ -1,7 +1,7 @@
 # Optimizing Gas Cost Notes 😎
 Gas is an unit of computation in the EVM that describe the fee to conduct a transaction based on its complexity. 
 ## Notes
-This notes was taken from the [Advanced Solidity: Understanding and Optimizing Gas Costs](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs) made by Jeffrey Scholz
+This notes were taken from the [Advanced Solidity: Understanding and Optimizing Gas Costs](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs) made by Jeffrey Scholz
 ## In this notes you will see 
 1. Overview 
     - [Block Limits](https://github.com/EdwardsVO/gas-optimization-notes/blob/main/overview/notes.md#storage-slots)
