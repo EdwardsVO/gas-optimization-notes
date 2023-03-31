@@ -39,3 +39,5 @@ This notes were taken from the [Advanced Solidity: Understanding and Optimizing 
 5. Excersise
     - [Gas Puzzle](https://github.com/EdwardsVO/gas-optimization-notes/blob/main/excersise-repo/pratice.md#gas-puzzles)
 
+6. Tips 
+    - [TIPS](https://github.com/EdwardsVO/gas-optimization-notes/blob/main/overview/tips-brief.md)
